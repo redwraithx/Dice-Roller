@@ -1,0 +1,19 @@
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\bin\Release\Dice Roller.exe.config
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\bin\Release\Dice Roller.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\bin\Release\Dice Roller.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice_Roller.Form1.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice_Roller.Properties.Resources.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice Roller.csproj.GenerateResource.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice Roller.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\Dice Roller\Dice Roller\obj\Release\Dice Roller.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\bin\Release\Dice Roller.exe.config
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\bin\Release\Dice Roller.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\bin\Release\Dice Roller.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice Roller.csprojAssemblyReference.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice_Roller.Form1.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice_Roller.Properties.Resources.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice Roller.csproj.GenerateResource.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice Roller.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\Dice Roller\Dice Roller\obj\Release\Dice Roller.pdb
